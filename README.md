@@ -3,3 +3,5 @@ A matching card game, also known as Concentration, implemented in Java. This ver
 
 
 If you wish to play, run theMatchingGame.py ♦ ♣ ♥ ♠
+
+Εισαγωγή στην Επιστήμη Υπολογιστών - Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών | 2020-2021
