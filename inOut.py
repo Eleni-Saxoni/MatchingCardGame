@@ -22,7 +22,7 @@ def getInputs():
 
 #Asks the user for a card and gets it ensuring the following:
 #The row selected is between 1 and 4,
-#The column selected is between 1 and the difficulty's level's appropriate column max,
+#The column selected is between 1 and the difficulty level's appropriate column max,
 #The card chosen has not been opened already
 def readCard(deck):
     row = input ("Row: ")
