@@ -1,5 +1,5 @@
 
-#Gets the user's inputs for the game setup and ensures they following:
+#Gets the user's inputs for the game setup and ensures the following:
 #The players involved are at least 2,
 #The difficulty level is between 1 and 3
 def getInputs():
